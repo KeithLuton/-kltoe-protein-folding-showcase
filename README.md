@@ -47,3 +47,13 @@ git clone https://github.com/keithluton/kltoe-protein-folding-showcase.git
 cd kltoe-protein-folding-showcase
 pip install -r demo/requirements.txt
 python demo/kltoe_demo.py --sequence MKTAYIAKQRQISFVKSHFSRQ
+KLTOE Quantum-Enhanced Protein Folding Demo
+===========================================
+Sequence: MKTAYIAKQRQISFVKSHFSRQ
+Secondary Structure: HHHLLLLLLBBBLLLLLLLLLL
+Confidence: 0.847
+Energy: -127.34 kJ/mol
+Enhancement: 28% improvement over classical methods
+
+🔒 Full analysis requires licensed version
+📧 Contact: keith@kltoe.org for licensing
